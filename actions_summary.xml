@@ -77,8 +77,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581422228178" />
-              <option name="times" value="272" />
+              <option name="last" value="1581427131271" />
+              <option name="times" value="274" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="HideAllWindows">
           <value>
             <ActionSummary>
-              <option name="last" value="1581426139959" />
-              <option name="times" value="1" />
+              <option name="last" value="1581427020228" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,16 +197,16 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418274816" />
-              <option name="times" value="69" />
+              <option name="last" value="1581427136410" />
+              <option name="times" value="70" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581426142006" />
-              <option name="times" value="21" />
+              <option name="last" value="1581427119799" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581426156142" />
-              <option name="times" value="17" />
+              <option name="last" value="1581427125307" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,16 +261,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581426155209" />
-              <option name="times" value="28" />
+              <option name="last" value="1581427124868" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418011525" />
-              <option name="times" value="26" />
+              <option name="last" value="1581427124408" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
