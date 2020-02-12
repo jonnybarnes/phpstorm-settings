@@ -45,8 +45,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504123133" />
-              <option name="times" value="500" />
+              <option name="last" value="1581505318307" />
+              <option name="times" value="505" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503915081" />
-              <option name="times" value="333" />
+              <option name="last" value="1581505149769" />
+              <option name="times" value="335" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,16 +221,16 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504151861" />
-              <option name="times" value="99" />
+              <option name="last" value="1581505154748" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499075673" />
-              <option name="times" value="29" />
+              <option name="last" value="1581505300241" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499078777" />
-              <option name="times" value="25" />
+              <option name="last" value="1581505315022" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581498563764" />
-              <option name="times" value="31" />
+              <option name="last" value="1581505314718" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
