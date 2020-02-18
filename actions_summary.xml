@@ -253,8 +253,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021877978" />
-              <option name="times" value="41" />
+              <option name="last" value="1582025620766" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,8 +277,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926927456" />
-              <option name="times" value="1" />
+              <option name="last" value="1582025656204" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -303,6 +303,14 @@
             <ActionSummary>
               <option name="last" value="1581926928998" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diagnostic.IdeErrorsDialog$BackAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582025616830" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +389,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926928538" />
-              <option name="times" value="1" />
+              <option name="last" value="1582025674238" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
