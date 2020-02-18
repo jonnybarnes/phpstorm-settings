@@ -330,6 +330,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042429856" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.find.SearchTextArea$ClearAction">
           <value>
             <ActionSummary>
