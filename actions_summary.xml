@@ -45,8 +45,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582020950675" />
-              <option name="times" value="1287" />
+              <option name="last" value="1582021887144" />
+              <option name="times" value="1292" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582020805269" />
-              <option name="times" value="626" />
+              <option name="last" value="1582021883525" />
+              <option name="times" value="628" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,16 +237,16 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582020967784" />
-              <option name="times" value="224" />
+              <option name="last" value="1582021890618" />
+              <option name="times" value="225" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954215180" />
-              <option name="times" value="39" />
+              <option name="last" value="1582021877978" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +325,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954223606" />
-              <option name="times" value="27" />
+              <option name="last" value="1582021880791" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954223249" />
-              <option name="times" value="31" />
+              <option name="last" value="1582021880459" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
