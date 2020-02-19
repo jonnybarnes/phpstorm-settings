@@ -5,8 +5,8 @@
         <entry key="$Copy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101327169" />
-              <option name="times" value="11" />
+              <option name="last" value="1582110576294" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,8 +37,8 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104330488" />
-              <option name="times" value="2" />
+              <option name="last" value="1582110413972" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582100158232" />
-              <option name="times" value="15" />
+              <option name="last" value="1582110406283" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
