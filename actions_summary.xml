@@ -29,16 +29,16 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582040639942" />
-              <option name="times" value="41" />
+              <option name="last" value="1582104357932" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414316135" />
-              <option name="times" value="1" />
+              <option name="last" value="1582104330488" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101918221" />
-              <option name="times" value="1402" />
+              <option name="last" value="1582104956547" />
+              <option name="times" value="1414" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +101,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101885405" />
-              <option name="times" value="670" />
+              <option name="last" value="1582104950532" />
+              <option name="times" value="675" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101890421" />
-              <option name="times" value="76" />
+              <option name="last" value="1582104315642" />
+              <option name="times" value="77" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,16 +261,16 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101919568" />
-              <option name="times" value="235" />
+              <option name="last" value="1582104957905" />
+              <option name="times" value="238" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582100167527" />
-              <option name="times" value="45" />
+              <option name="last" value="1582104282862" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="com.intellij.diagnostic.IdeErrorsDialog$ForwardAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097135017" />
-              <option name="times" value="4" />
+              <option name="last" value="1582104192106" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414321542" />
-              <option name="times" value="1" />
+              <option name="last" value="1582104334419" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
