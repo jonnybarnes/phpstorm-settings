@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="ConfigureIcs">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582234972862" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
@@ -42,6 +50,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="HideAllWindows">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582234952405" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
@@ -55,6 +71,22 @@
             <ActionSummary>
               <option name="last" value="1581975240669" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.actions.ToolWindowMoveAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582234929442" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582234936194" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
