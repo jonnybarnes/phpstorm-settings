@@ -1,6 +1,7 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="22" />
+    <option name="FONT_FAMILY" value="Operator Mono Light" />
     <option name="LINE_SPACING" value="1.5" />
   </component>
   <component name="TodoConfiguration">
