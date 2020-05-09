@@ -19,6 +19,9 @@
       <webServer id="6673b4da-8820-48f8-bd18-201ed62f74a7" name="Youtube-dl Web" url="https://youtubedl.localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="09fa73ee-a9b4-4128-ac3a-b3de4b296c3a" name="Vidl" url="https://vidl.localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
