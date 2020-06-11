@@ -22,6 +22,9 @@
       <webServer id="09fa73ee-a9b4-4128-ac3a-b3de4b296c3a" name="Vidl" url="https://vidl.localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="db8c8bd5-c209-4196-a644-eabd1e81d9c1" name="SanCloud" url="https://sancloud.localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
