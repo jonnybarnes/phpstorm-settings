@@ -25,6 +25,9 @@
       <webServer id="db8c8bd5-c209-4196-a644-eabd1e81d9c1" name="SanCloud" url="https://sancloud.localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="64562bb5-e144-4121-a8bd-059111ef8293" name="CCL T13" url="https://13.ccl.localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
