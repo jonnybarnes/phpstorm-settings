@@ -28,6 +28,9 @@
       <webServer id="64562bb5-e144-4121-a8bd-059111ef8293" name="CCL T13" url="https://13.ccl.localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="0479d8db-e2dd-4151-b2d9-b134d646e95d" name="SanCloud Certs" url="https://certs.sancloud.localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
