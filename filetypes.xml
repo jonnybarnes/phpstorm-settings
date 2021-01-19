@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="cnf" type="AUTO_DETECTED" />
       <mapping pattern="chef_aws,json" type="JSON" />
       <mapping pattern="Berkshelf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
