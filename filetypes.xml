@@ -6,6 +6,7 @@
       <mapping ext="cnf" type="AUTO_DETECTED" />
       <mapping pattern="chef_aws,json" type="JSON" />
       <mapping pattern="Berkshelf" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
