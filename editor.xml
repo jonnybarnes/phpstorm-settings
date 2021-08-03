@@ -12,6 +12,8 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="22" />
     <option name="FONT_FAMILY" value="Operator Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
     <option name="LINE_SPACING" value="1.5" />
   </component>
   <component name="EditorSettings">
