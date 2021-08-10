@@ -5,7 +5,6 @@
       <mapping ext="crt" type="AUTO_DETECTED" />
       <mapping ext="cnf" type="AUTO_DETECTED" />
       <mapping pattern="chef_aws,json" type="JSON" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="Berkshelf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
