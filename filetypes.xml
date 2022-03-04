@@ -8,11 +8,6 @@
       <mapping pattern="Berkshelf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
@@ -24,6 +19,11 @@
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
